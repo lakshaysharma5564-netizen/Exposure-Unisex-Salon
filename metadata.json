@@ -1,0 +1,6 @@
+{
+  "name": "Exposure Unisex Salon",
+  "description": "Premium unisex hair styling, grooming and personal beauty care in Nangal Raya, Janakpuri, New Delhi. Explore services and book appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
